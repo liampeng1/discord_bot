@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/liampeng/anaconda3/envs/discordBotEnv/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
